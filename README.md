@@ -42,7 +42,7 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
   ![Screenshot 1](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map2.png)
   ![Screenshot 2](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map1.png)
 - **Sprint Review**: 
-Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları:Beyza Bayrakdar
+Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları: Zeynep Coşkun, Beyza Bayrakdar, Samed Bekmez
 
 - **Sprint Retrospective:**
   - Sprint çoğu ekip üyesinin final takvimine denk geldiği için toplantı saatleri düzenlenmiştir.
@@ -55,4 +55,4 @@ Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya ba
 
 ## Product Backlog URL
 
-([https://miro.com/app/board/uXjVM9wb4a0=/)
+(https://miro.com/app/board/uXjVM9wb4a0=/)
