@@ -40,9 +40,8 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 1](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map2.png)
+  ![Screenshot 2](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map1.png)
 - **Sprint Review**: 
 Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları:................... 
 
