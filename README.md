@@ -42,7 +42,7 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
   ![Screenshot 1](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map2.png)
   ![Screenshot 2](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/map1.png)
 - **Sprint Review**: 
-Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları:................... 
+Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları:Beyza Bayrakdar
 
 - **Sprint Retrospective:**
   - Sprint çoğu ekip üyesinin final takvimine denk geldiği için toplantı saatleri düzenlenmiştir.
@@ -55,4 +55,4 @@ Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya ba
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+([https://miro.com/app/board/uXjVM9wb4a0=/)
