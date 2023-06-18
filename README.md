@@ -32,8 +32,7 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının discord üzerinden yapılmasına karar verilmiştir, ekip üyelerinin birbirlerine ulaşamaması gibi durumlarda ise telefon üzerinden iletişime geçilmiştir.  
--
--[Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/backlog1.png.png) 
@@ -46,7 +45,7 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
 Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya başlanmıştır, karakter mekanikleri hazırlanmaya başlanmıştır. Sprint Review katılımcıları:................... 
 
 - **Sprint Retrospective:**
-  - 1. Sprint çoğu ekip üyesinin final takvimine denk geldiği için toplantı saatleri düzenlenmiştir.
+  - Sprint çoğu ekip üyesinin final takvimine denk geldiği için toplantı saatleri düzenlenmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
