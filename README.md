@@ -36,7 +36,7 @@ Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek s
 -[Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/ZeynepCosk/Bootcamp_U17/blob/main/backlog1.png.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
