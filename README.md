@@ -55,4 +55,4 @@ Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya ba
 
 ## Product Backlog URL
 
-(https://miro.com/app/board/uXjVM9wb4a0=/)
+(https://miro.com/app/board/uXjVM9wb4a0=/?share_link_id=715556644627)
